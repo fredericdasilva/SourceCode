@@ -1,0 +1,154 @@
+2019-06-10 00:55:19.1962|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 00:56:01.4589|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 00:56:19.0364|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 00:57:16.6877|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 00:58:20.5647|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 00:58:51.2169|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:03:23.6794|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:07:19.9178|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:08:01.7367|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: Le chemin réseau n’a pas été trouvé
+
+
+2019-06-10 01:11:28.6490|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:11:28.8902|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: La séquence ne contient aucun élément correspondant.
+
+
+2019-06-10 01:12:10.9342|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:12:52.5651|ERROR|WebApi.Helpers.NLogger|Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : 
+Error: La séquence ne contient aucun élément correspondant.
+
+
+2019-06-10 01:16:35.0398|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Token: Token
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:17:24.2128|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:36:07.5493|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:36:07.5563|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+@IP :::1
+Action Parameters : {"messageFormat":"JSON","messageArguments":[]}
+
+2019-06-10 01:37:05.1799|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:37:44.3200|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+@IP :::1
+Action Parameters : {"messageFormat":"JSON","messageArguments":[]}
+
+2019-06-10 01:38:50.1379|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Controller : WebApi.Controllers.ProductController
+Action : Get
+Action Parameters : {"messageFormat":"JSON","messageArguments":[{}]}
+
+2019-06-10 01:38:50.1449|INFO|WebApi.Helpers.NLogger|JSON
+Method: GET
+URL: http://localhost:50875/v1/Products/Product/allproducts
+Client @IP :::1
+Action Parameters : {"messageFormat":"JSON","messageArguments":[]}
+
