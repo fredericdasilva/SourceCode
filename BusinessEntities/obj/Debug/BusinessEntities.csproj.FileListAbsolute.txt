@@ -1,0 +1,6 @@
+C:\Users\Fred\Documents\Développements perso\SourceCode_7\SourceCode\BusinessEntities\bin\Debug\BusinessEntities.dll
+C:\Users\Fred\Documents\Développements perso\SourceCode_7\SourceCode\BusinessEntities\bin\Debug\BusinessEntities.pdb
+C:\Users\Fred\Documents\Développements perso\SourceCode_7\SourceCode\BusinessEntities\obj\Debug\BusinessEntities.csproj.CoreCompileInputs.cache
+C:\Users\Fred\Documents\Développements perso\SourceCode_7\SourceCode\BusinessEntities\obj\Debug\BusinessEntities.dll
+C:\Users\Fred\Documents\Développements perso\SourceCode_7\SourceCode\BusinessEntities\obj\Debug\BusinessEntities.pdb
+C:\Users\Fred\Documents\Développements perso\SourceCode_7\SourceCode\BusinessEntities\obj\Debug\BusinessEntities.csprojAssemblyReference.cache
